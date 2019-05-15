@@ -1,0 +1,2 @@
+# aggregator
+An agnostic aggregator
